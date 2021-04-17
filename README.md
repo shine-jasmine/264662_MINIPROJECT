@@ -1,6 +1,6 @@
 # 264662_MINIPROJECT
 
-Python MiniProject For LTTS
+## Python MiniProject For LTTS
 
 
 ![cc3](https://user-images.githubusercontent.com/80335764/115119782-cbb6df80-9fc7-11eb-9724-a183aa4a08d8.png)
