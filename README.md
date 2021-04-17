@@ -19,16 +19,12 @@ Installation
 ------------
 Use the Python package:
 
-code-block:: bash
-
   $ pip install --user currencyconverter
 
 Command line tool
 -----------------
 
 After installation, you should have ``currency_converter`` in your ``$PATH``:
-
-code-block:: bash
 
  $ currency_converter 100 USD --to EUR
  100.000 USD = 87.512 EUR on 2016-05-06
